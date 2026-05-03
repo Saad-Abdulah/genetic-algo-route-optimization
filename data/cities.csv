@@ -1,0 +1,241 @@
+City,Latitude,Longitude
+Kingfield,45.03319,-70.2391
+Brenton,37.60809,-81.62275
+Erwin,44.50992,-97.3993
+Scranton,41.41007,-75.66767
+Paoli,38.51596,-86.45989
+Tellico Plains,35.33494,-84.22933
+Hartselle,34.4414,-86.94315
+Kissimmee,28.31111,-81.59107
+Hazel Green,34.95407,-86.5951
+Alleman,41.80365,-93.60043
+Big Arm,47.82409,-114.23271
+Blounts Creek,35.37987,-76.93513
+Hopkins,44.95477,-93.43229
+Milltown,45.51824,-92.46031
+Harrison,40.74377,-74.15389
+Breckenridge,39.74378,-93.80527
+Corona,40.74962,-73.85264
+Turtle Creek,38.02125,-81.88162
+Grass Lake,42.27821,-84.18027
+Portland,42.8578,-84.93201
+New York,40.7128,-74.006
+Los Angeles,34.0522,-118.2437
+Chicago,41.8781,-87.6298
+Houston,29.7604,-95.3698
+Phoenix,33.4484,-112.074
+Philadelphia,39.9526,-75.1652
+San Antonio,29.4241,-98.4936
+San Diego,32.7157,-117.1611
+Dallas,32.7767,-96.797
+San Jose,37.3382,-121.8863
+Austin,30.2672,-97.7431
+Jacksonville,30.3322,-81.6557
+Fort Worth,32.7555,-97.3308
+Columbus,39.9612,-82.9988
+Charlotte,35.2271,-80.8431
+San Francisco,37.7749,-122.4194
+Indianapolis,39.7684,-86.1581
+Seattle,47.6062,-122.3321
+Denver,39.7392,-104.9903
+Washington DC,38.9072,-77.0369
+Boston,42.3601,-71.0589
+Nashville,36.1627,-86.7816
+Detroit,42.3314,-83.0458
+Oklahoma City,35.4676,-97.5164
+Las Vegas,36.1699,-115.1398
+Louisville,38.2527,-85.7585
+Baltimore,39.2904,-76.6122
+Milwaukee,43.0389,-87.9065
+Albuquerque,35.0844,-106.6504
+Tucson,32.2226,-110.9747
+Fresno,36.7378,-119.7871
+Sacramento,38.5816,-121.4944
+Kansas City,39.0997,-94.5786
+Mesa,33.4152,-111.8315
+Atlanta,33.749,-84.388
+Miami,25.7617,-80.1918
+Raleigh,35.7796,-78.6382
+Omaha,41.2565,-95.9345
+Minneapolis,44.9778,-93.265
+Cleveland,41.4993,-81.6944
+Pittsburgh,40.4406,-79.9959
+New Orleans,29.9511,-90.0715
+Salt Lake City,40.7608,-111.891
+Orlando,28.5383,-81.3792
+Tampa,27.9506,-82.4572
+St Louis,38.627,-90.1994
+Cincinnati,39.1031,-84.512
+Buffalo,42.8864,-78.8784
+Richmond,37.5407,-77.436
+
+# ROADS
+From,To
+Albuquerque,Denver
+Albuquerque,Mesa
+Albuquerque,Phoenix
+Albuquerque,Salt Lake City
+Albuquerque,Tucson
+Alleman,Breckenridge
+Alleman,Hopkins
+Alleman,Kansas City
+Alleman,Milltown
+Alleman,Minneapolis
+Alleman,Omaha
+Atlanta,Hartselle
+Atlanta,Hazel Green
+Atlanta,Jacksonville
+Atlanta,Nashville
+Atlanta,New Orleans
+Atlanta,Tellico Plains
+Austin,Dallas
+Austin,Fort Worth
+Austin,Houston
+Austin,San Antonio
+Baltimore,Philadelphia
+Baltimore,Richmond
+Baltimore,Scranton
+Baltimore,Washington DC
+Big Arm,Denver
+Big Arm,Sacramento
+Big Arm,Salt Lake City
+Big Arm,Seattle
+Blounts Creek,Charlotte
+Blounts Creek,Raleigh
+Blounts Creek,Richmond
+Blounts Creek,Washington DC
+Boston,Corona
+Boston,Harrison
+Boston,Kingfield
+Boston,New York
+Breckenridge,Kansas City
+Breckenridge,Oklahoma City
+Breckenridge,Omaha
+Breckenridge,St Louis
+Brenton,Charlotte
+Brenton,Cincinnati
+Brenton,Columbus
+Brenton,Raleigh
+Brenton,Turtle Creek
+Buffalo,Cleveland
+Buffalo,Detroit
+Buffalo,Pittsburgh
+Buffalo,Scranton
+Charlotte,Raleigh
+Charlotte,Tellico Plains
+Charlotte,Turtle Creek
+Chicago,Grass Lake
+Chicago,Indianapolis
+Chicago,Milwaukee
+Chicago,Portland
+Cincinnati,Columbus
+Cincinnati,Indianapolis
+Cincinnati,Louisville
+Cincinnati,Paoli
+Cincinnati,Turtle Creek
+Cleveland,Columbus
+Cleveland,Detroit
+Cleveland,Grass Lake
+Cleveland,Pittsburgh
+Columbus,Detroit
+Columbus,Grass Lake
+Columbus,Pittsburgh
+Columbus,Turtle Creek
+Corona,Harrison
+Corona,Kingfield
+Corona,New York
+Corona,Philadelphia
+Corona,Scranton
+Dallas,Fort Worth
+Dallas,Houston
+Dallas,Oklahoma City
+Dallas,San Antonio
+Denver,Oklahoma City
+Denver,Omaha
+Denver,Salt Lake City
+Detroit,Grass Lake
+Detroit,Portland
+Erwin,Hopkins
+Erwin,Milltown
+Erwin,Minneapolis
+Erwin,Omaha
+Fort Worth,Houston
+Fort Worth,Oklahoma City
+Fort Worth,San Antonio
+Fresno,Las Vegas
+Fresno,Los Angeles
+Fresno,Sacramento
+Fresno,San Francisco
+Fresno,San Jose
+Grass Lake,Milwaukee
+Grass Lake,Portland
+Harrison,Kingfield
+Harrison,New York
+Harrison,Philadelphia
+Harrison,Scranton
+Hartselle,Hazel Green
+Hartselle,Nashville
+Hartselle,New Orleans
+Hartselle,Tellico Plains
+Hazel Green,Nashville
+Hazel Green,New Orleans
+Hazel Green,Tellico Plains
+Hopkins,Milltown
+Hopkins,Minneapolis
+Houston,New Orleans
+Houston,San Antonio
+Indianapolis,Louisville
+Indianapolis,Milwaukee
+Indianapolis,Paoli
+Indianapolis,St Louis
+Jacksonville,Kissimmee
+Jacksonville,Miami
+Jacksonville,Orlando
+Jacksonville,Tampa
+Kansas City,Oklahoma City
+Kansas City,Omaha
+Kansas City,St Louis
+Kingfield,New York
+Kissimmee,Miami
+Kissimmee,Orlando
+Kissimmee,Tampa
+Las Vegas,Los Angeles
+Las Vegas,Mesa
+Las Vegas,Phoenix
+Las Vegas,Salt Lake City
+Las Vegas,San Diego
+Las Vegas,Tucson
+Los Angeles,Sacramento
+Los Angeles,San Diego
+Los Angeles,San Francisco
+Los Angeles,San Jose
+Louisville,Nashville
+Louisville,Paoli
+Mesa,Phoenix
+Mesa,San Diego
+Mesa,Tucson
+Miami,Orlando
+Miami,Tampa
+Milltown,Minneapolis
+Milwaukee,Portland
+Nashville,Paoli
+Nashville,Tellico Plains
+New York,Philadelphia
+New York,Scranton
+Orlando,Tampa
+Paoli,St Louis
+Philadelphia,Scranton
+Philadelphia,Washington DC
+Phoenix,San Diego
+Phoenix,Tucson
+Pittsburgh,Turtle Creek
+Pittsburgh,Washington DC
+Raleigh,Richmond
+Richmond,Washington DC
+Sacramento,San Francisco
+Sacramento,San Jose
+Sacramento,Seattle
+Salt Lake City,Seattle
+San Francisco,San Jose
+San Francisco,Seattle
+Scranton,Washington DC

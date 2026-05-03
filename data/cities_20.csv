@@ -1,0 +1,75 @@
+City,Latitude,Longitude
+Kingfield,45.03319,-70.2391
+Brenton,37.60809,-81.62275
+Erwin,44.50992,-97.3993
+Scranton,41.41007,-75.66767
+Paoli,38.51596,-86.45989
+Tellico Plains,35.33494,-84.22933
+Hartselle,34.4414,-86.94315
+Kissimmee,28.31111,-81.59107
+Hazel Green,34.95407,-86.5951
+Alleman,41.80365,-93.60043
+Big Arm,47.82409,-114.23271
+Blounts Creek,35.37987,-76.93513
+Hopkins,44.95477,-93.43229
+Milltown,45.51824,-92.46031
+Harrison,40.74377,-74.15389
+Breckenridge,39.74378,-93.80527
+Corona,40.74962,-73.85264
+Turtle Creek,38.02125,-81.88162
+Grass Lake,42.27821,-84.18027
+Portland,42.8578,-84.93201
+
+# ROADS
+From,To
+Alleman,Big Arm
+Alleman,Breckenridge
+Alleman,Erwin
+Alleman,Hopkins
+Alleman,Milltown
+Big Arm,Erwin
+Big Arm,Hopkins
+Big Arm,Milltown
+Blounts Creek,Brenton
+Blounts Creek,Corona
+Blounts Creek,Harrison
+Blounts Creek,Kissimmee
+Blounts Creek,Turtle Creek
+Breckenridge,Erwin
+Breckenridge,Hopkins
+Breckenridge,Milltown
+Breckenridge,Paoli
+Brenton,Grass Lake
+Brenton,Hartselle
+Brenton,Hazel Green
+Brenton,Paoli
+Brenton,Portland
+Brenton,Tellico Plains
+Brenton,Turtle Creek
+Corona,Harrison
+Corona,Kingfield
+Corona,Scranton
+Erwin,Hopkins
+Erwin,Milltown
+Grass Lake,Kingfield
+Grass Lake,Paoli
+Grass Lake,Portland
+Grass Lake,Turtle Creek
+Harrison,Kingfield
+Harrison,Scranton
+Hartselle,Hazel Green
+Hartselle,Kissimmee
+Hartselle,Paoli
+Hartselle,Tellico Plains
+Hazel Green,Kissimmee
+Hazel Green,Paoli
+Hazel Green,Tellico Plains
+Hopkins,Milltown
+Kingfield,Scranton
+Kissimmee,Tellico Plains
+Paoli,Portland
+Paoli,Tellico Plains
+Paoli,Turtle Creek
+Portland,Turtle Creek
+Scranton,Turtle Creek
+Tellico Plains,Turtle Creek
